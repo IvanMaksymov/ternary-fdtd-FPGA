@@ -9,7 +9,7 @@ component**.
 Built with the open-source flow: yosys → nextpnr-himbaechel → Apicula →
 openFPGALoader.
 
-![convergence](doc/fpga_convergence.png)
+![convergence](fpga_convergence.png)
 
 ## The result
 
