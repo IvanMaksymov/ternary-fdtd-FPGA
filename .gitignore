@@ -1,0 +1,11 @@
+build/
+*.fs
+*.json
+*.rpt
+fpga_state*.txt
+fpga_spectrum*.txt
+fpga_params_mc*.vh
+fpga_golden_mc*.txt
+fpga_convergence.png
+*.vcd
+*.out
